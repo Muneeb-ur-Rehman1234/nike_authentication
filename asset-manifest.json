@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nike_authentication/static/css/main.50a0a8db.css",
+    "main.js": "/nike_authentication/static/js/main.0accd390.js",
+    "static/js/453.993e129c.chunk.js": "/nike_authentication/static/js/453.993e129c.chunk.js",
+    "static/media/shoe2.png": "/nike_authentication/static/media/shoe2.27a2c9f71075ec70836b.png",
+    "index.html": "/nike_authentication/index.html",
+    "main.50a0a8db.css.map": "/nike_authentication/static/css/main.50a0a8db.css.map",
+    "main.0accd390.js.map": "/nike_authentication/static/js/main.0accd390.js.map",
+    "453.993e129c.chunk.js.map": "/nike_authentication/static/js/453.993e129c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50a0a8db.css",
+    "static/js/main.0accd390.js"
+  ]
+}
